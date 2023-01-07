@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d5iS+SmxDA6YEjH39vovd84XcuTtvIbeci8wU8hpIOEXZcXO1P1koBRQxDquM7qg+pMzb1dExmxJ4pVPdkz3nA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oneov\\source\\repos\\FuelStations\\FuelStations\\FuelStations.iOS\\FuelStations.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oneov\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512",
+    "C:\\Users\\oneov\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\oneov\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\oneov\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

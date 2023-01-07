@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FuelStations.Views.AddNew">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Name" WidthRequest="200"/>
+                <Entry x:Name="Name" WidthRequest="200"/>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Address" WidthRequest="200"/>
+                <Entry x:Name="Address" WidthRequest="200"/>
+            </StackLayout>
+            
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Fuel Price" WidthRequest="200"/>
+                <Entry x:Name="FuelPrice" WidthRequest="200"/>
+            </StackLayout>
+            
+            <Button Text="Add" Clicked="OnAddStation" />
+            <Button Text="Back" Clicked="OnBack" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

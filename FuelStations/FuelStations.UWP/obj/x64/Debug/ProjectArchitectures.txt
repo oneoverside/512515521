@@ -1,0 +1,1 @@
+C:\Users\oneov\source\repos\FuelStations\FuelStations\FuelStations.UWP\FuelStations.UWP.csproj;x64

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="FuelStations.Views.DeleteStation">
+    <ContentPage.Content>
+        <StackLayout>
+            <StackLayout Orientation="Horizontal">
+                <Label Text="Id" WidthRequest="200"/>
+                <Entry x:Name="Id" WidthRequest="200"/>
+            </StackLayout>
+            
+            <Button Text="Delete" Clicked="OnDeleteStation"/>
+            <Button Text="Back" Clicked="OnBack"/>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
